@@ -22,3 +22,6 @@ This is a synthetic dataset generated using AI, consisting of 100 rows and two c
 1. Python Programming Language.
 2. Jupyter Notebook.
 
+# Documentation
+1. [Dataset](https://github.com/Yogaaprila/Simple-Linear-Regression-in-Python/blob/main/health_data.csv)
+2. [Python Notebook](https://github.com/Yogaaprila/Simple-Linear-Regression-in-Python/blob/main/Simple%20Linear%20Regression%20-%20Python.ipynb)
