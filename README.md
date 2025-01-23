@@ -1,5 +1,6 @@
 # Simple Linear Regression
-![ALT LINK](pictures/humas-indonesia-manfaat-data-science-bagi-humas-36.png)
+![Alt Link](pictures/humas-indonesia-manfaat-data-science-bagi-humas-36.jpeg)
+                                                                                    [*Image from Humas Indonesia*](https://www.humasindonesia.id/berita/manfaat-data-science-bagi-humas-1229)
 
 # Goal
 To perform simple linear regression modeling step by step using Python.
